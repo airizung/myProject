@@ -1,0 +1,3 @@
+L1: My name is Manussawee.
+L2: My age is 37
+L3: My home Nonthaburi
